@@ -9,20 +9,18 @@ sidebar:
     # Profile information
     name: Imroatus Saadah
     tagline: Full Stack Developer
-    avatar: mida.jpeg  #place a 100x100 picture inside C:\Users\ASUS\Downloads folder and provide the name of the file below
+    avatar: mida.jpeg  #place a 100x100 picture inside \ASUS\Downloads folder and provide the name of the file below
 
     # Sidebar links
     email: imroatussaadah@gmail.com
     phone: 0822 8365 9947
     citizenship:
     website: imroatussaadah.github.io #do not add http://
-    linkedin: imroatussaadah
-    xing: imroatussaadah
-    github: sharu725
+   github: imroatussaadah.github.io
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@imroatussaadah.gihub.io'
+    twitter: '@Mida__'
     stack-overflow: # Number/Username, e.g. 123456/imroatussaadah
     codewars:
     goodreads: # Number-Username, e.g. 123456-imroatussaadah
