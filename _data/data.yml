@@ -9,13 +9,13 @@ sidebar:
     # Profile information
     name: Imroatus Saadah
     tagline: Full Stack Developer
-    avatar: mida.jpeg  #place a 100x100 picture inside /download folder and provide the name of the file below
+    avatar: mida.jpeg  #place a 100x100 picture inside /downloads folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@imroatussaadah.gihub.io
+    email: imroatussaadah@gmail.com
     phone: 0822 8365 9947
     citizenship:
-    website: blog.imroatussaadah.github.io #do not add http://
+    website: imroatussaadah.github.io #do not add http://
     linkedin: imroatussaadah
     xing: imroatussaadah
     github: sharu725
@@ -23,9 +23,9 @@ sidebar:
     gitlab:
     bitbucket:
     twitter: '@imroatussaadah.gihub.io'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    stack-overflow: # Number/Username, e.g. 123456/imroatussaadah
     codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    goodreads: # Number-Username, e.g. 123456-imroatussaadah
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
